@@ -1,0 +1,27 @@
+{
+  "name": "sparse-merkle",
+  "version": "1.0.0",
+  "description": "Javascript implementation of sparse merkle trees",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChainSafeSystems/sparse-merkle-js.git"
+  },
+  "keywords": [
+    "\"sparse",
+    "merkle",
+    "trees\"",
+    "\"merkle",
+    "trees\"",
+    "\"cryptography\""
+  ],
+  "author": "ChainSafeSystems",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/ChainSafeSystems/sparse-merkle-js/issues"
+  },
+  "homepage": "https://github.com/ChainSafeSystems/sparse-merkle-js#readme"
+}
